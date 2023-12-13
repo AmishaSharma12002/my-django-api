@@ -103,4 +103,3 @@ Follow these steps to set up and run the Django task:
 
 - [Django Documentation](https://docs.djangoproject.com/)
 - [Django REST Framework Documentation](https://www.django-rest-framework.org/)
-```
